@@ -9,7 +9,6 @@ I can make basic FrontEnd websites with HTML, CSS, and JavaScript.
 * ✉️  You can contact me at [abhaykumarpatelrbl@gmail.com](mailto:abhaykumarpatelrbl@gmail.com)
 * 🧠  I'm learning React and DSA
 * 🤝  I'm open to collaborating on projects
-* ⚡  I also love Gaming \[like: BGMI & COC\]
 
 ### Skills
 
